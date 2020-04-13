@@ -1,0 +1,4 @@
+1) Qu'apporte le fait d'utiliser l'annotation @SpringBootapplication dans le main, à la place de faire un simple main
+avec un new ConsumerApplication() pour lancer l'application ?
+
+2)Meilleur léthode pour supprimer un topic?

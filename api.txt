@@ -1,0 +1,23 @@
+news : 09b877bf46634a9ca42d1a86f1c99bb0
+
+
+
+Weather (developere Here)
+6H1XqEQi7RmQftp6NFOf0oHb9r6b8vCUHMWTP--W7iw
+
+Prévisions
+https://weather.ls.hereapi.com/weather/1.0/report.json?apiKey=6H1XqEQi7RmQftp6NFOf0oHb9r6b8vCUHMWTP--W7iw&product=forecast_7days_simple&latitude=41.83&longitude=-87.68
+
+GoogleMap
+AIzaSyC7hxfIy_Jlrwz9kMK1gmanR7Qhv9i63_4
+
+opencagdata
+6b7bb31e841e4dd39735e5a6758a20c4
+https://api.opencagedata.com/geocode/v1/json?key=6b7bb31e841e4dd39735e5a6758a20c4&q=2%20rue%20du%20%20loup,67130%20RUSS&pretty=1
+
+API Bourse avec News
+xJaXH2G2c7W8yUamGBqg
+quandl euronext
+
+API DECAUX
+6655a9efa78e1190b723f7d124589513af17c6cb 
